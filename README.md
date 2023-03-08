@@ -7,6 +7,6 @@ Recording the object for at least 5 seconds(if no more movements after were dete
 
 # Examples
 
-![Photo1](https://github.com/Avdieienko/-Hohol--Detector/blob/main/Screenshot_1.png?raw=true) 
+![Photo1](https://github.com/Avdieienko/Security-camera/blob/main/example1.png?raw=true) 
 
-![Photo1](https://github.com/Avdieienko/-Hohol--Detector/blob/main/Screenshot_1.png?raw=true) 
+![Photo1](https://github.com/Avdieienko/Security-camera/blob/main/example2.png?raw=true) 
