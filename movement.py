@@ -46,6 +46,7 @@ while True:
     g=0
     for i in contours:
         max_val = cv2.contourArea(i)
+        #Skip small objects
         if max_val < 500:
             continue
         g = 1
